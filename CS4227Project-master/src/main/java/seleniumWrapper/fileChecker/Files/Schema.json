@@ -1,0 +1,19 @@
+{
+    "properties": {
+        "id": 
+        {
+            "type": "integer",
+            "regex": "[0-9]+"
+        },
+        "name": 
+        {
+            "type": "string",
+            "regex": "[A-z]+"
+        },
+        "amount": 
+        {
+            "type": "integer",
+            "regex": "[0-9]+"
+        },
+    }
+}
